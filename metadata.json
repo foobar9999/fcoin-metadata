@@ -2,10 +2,11 @@
   "name": "Foobar False Coin",
   "symbol": "FCOIN",
   "description": "This token was casually created by Foobar False as a personal experiment and keepsake.",
-  "image": "https://i.imgur.com/ZyTqt6o.png",
+  "image": "https://raw.githubusercontent.com/foobar9999/fcoin-metadata/main/Fcoin.png",
   "external_url": "https://x.com/foobar_FF",
   "attributes": [
     { "trait_type": "Creator", "value": "Foobar False" },
     { "trait_type": "Purpose", "value": "Personal Experiment & Keepsake" }
   ]
+
 }
